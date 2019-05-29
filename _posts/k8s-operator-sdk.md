@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Operator SDK overview"
+date: 2019-05-22 09:42:37
 categories: Kubernetes
 tags:  Kubernetes Operator
 ---

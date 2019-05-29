@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "generate trace data of operator-sdk by go tool trace"
+date: 2019-05-29 09:44:00 
 categories: Kubernetes
 tags:  Kubernetes Operator go-tool calltrace golang
 ---
