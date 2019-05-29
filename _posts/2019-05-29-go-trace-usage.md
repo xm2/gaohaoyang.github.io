@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "generate trace data of operator-sdk by go tool trace"
+title:  "Go 'runtime/trace' usage - Operator SDK scaffold code trace"
 date: 2019-05-29 09:44:00 
 categories: Kubernetes
 tags:  Kubernetes Operator go-tool calltrace golang
