@@ -15,13 +15,13 @@ tags:  Kubernetes Operator
 Operator concept is introduced to k8s community at [2016](https://coreos.com/blog/introducing-operators.html), 
 > An Operator is an application-specific controller that extends the Kubernetes API to create, configure, and manage instances of complex stateful applications on behalf of a Kubernetes user. It builds upon the basic Kubernetes resource and controller concepts but includes domain or application-specific knowledge to automate common tasks.
 
-[operator-sdk](https://github.com/operator-framework/operator-sdk) is a framework to make writing operators easier. Which provides:
+[Operator SDK](https://github.com/operator-framework/operator-sdk) is a framework to make writing operators easier. Which provides:
 >  * High level APIs and abstractions to write the operational logic more intuitively
 >  * Tools for scaffolding and code generation to bootstrap a new project fast
 >  * Extensions to cover common operator use cases
 
 ## SDK CLI installation and app-operator example
-Follow the guide from "Quick Start": https://github.com/operator-framework/operator-sdk#quick-start
+Follow the guide from "Quick Start": <https://github.com/operator-framework/operator-sdk#quick-start>
 
 
 
