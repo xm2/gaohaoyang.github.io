@@ -47,7 +47,7 @@ The `operator-sdk` CLI generates a number of packages for each project. The foll
 
 The code layout of example "app-operator"
 
-![alt text](../assets/app-operator-layout.png)
+![alt text](/assets/app-operator-layout.png)
 
 Operator SDK generates lots of files/directories for developers, but most of the generated files/directories are not expected to edit. 
 
@@ -59,3 +59,9 @@ Note: After modifying the `pkg/apis/<group>/<version>/<kind>_types.go`, develope
 ```sh
 $ operator-sdk generate k8s
 ```
+
+## Reference link
+* https://coreos.com/blog/introducing-operators.html
+* https://github.com/operator-framework/operator-sdk#quick-start
+* https://github.com/operator-framework/operator-sdk/blob/master/doc/user-guide.md
+* https://github.com/operator-framework/operator-sdk/blob/master/doc/project_layout.md
