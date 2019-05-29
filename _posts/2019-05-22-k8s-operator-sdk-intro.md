@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "Operator SDK overview"
+title:  "Kubernetes Operator SDK intro"
 date: 2019-05-22 09:42:37
+author: xm2
 categories: Kubernetes
 tags:  Kubernetes Operator
 ---
@@ -62,7 +63,7 @@ $ operator-sdk generate k8s
 ```
 
 ## Reference link
-* https://coreos.com/blog/introducing-operators.html
-* https://github.com/operator-framework/operator-sdk#quick-start
-* https://github.com/operator-framework/operator-sdk/blob/master/doc/user-guide.md
-* https://github.com/operator-framework/operator-sdk/blob/master/doc/project_layout.md
+* <https://coreos.com/blog/introducing-operators.html>
+* <https://github.com/operator-framework/operator-sdk#quick-start>
+* <https://github.com/operator-framework/operator-sdk/blob/master/doc/user-guide.md>
+* <https://github.com/operator-framework/operator-sdk/blob/master/doc/project_layout.md>
